@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Sufiyan Razaq<br><br>🚀 Flutter Developer | Freelancer<br>💡 UI/UX Enthusiast | Passionate Problem-Solver<br><br>🔭 Currently working as a Flutter Mobile App Developer, crafting seamless and scalable applications.<br>📱 Specializing in cross-platform app development, delivering high-performance solutions with clean and maintainable code.<br>✨ Enthusiastic about UI/UX design, ensuring intuitive and visually appealing user experiences.<br>💻 Dedicated to writing efficient, scalable, and well-structured code to build innovative applications.<br>🌍 Passionate about exploring new places and embracing new challenges in technology.<br>📫 Let's connect!<br>🔗 Portfolio: http://sufiyanrazaq.com/
+# 💫 Hi 👋, I'm Sufiyan Razaq
+<br><br>🚀 Flutter Developer | Freelancer<br>💡 UI/UX Enthusiast | Passionate Problem-Solver<br><br>🔭 Currently working as a Flutter Mobile App Developer, crafting seamless and scalable applications.<br>📱 Specializing in cross-platform app development, delivering high-performance solutions with clean and maintainable code.<br>✨ Enthusiastic about UI/UX design, ensuring intuitive and visually appealing user experiences.<br>💻 Dedicated to writing efficient, scalable, and well-structured code to build innovative applications.<br>🌍 Passionate about exploring new places and embracing new challenges in technology.<br>📫 Let's connect!<br>🔗 Portfolio: http://sufiyanrazaq.com/
 
 
 ## 🌐 Socials:
