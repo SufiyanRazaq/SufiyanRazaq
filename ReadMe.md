@@ -4,7 +4,7 @@
 
 ### Senior Flutter Developer
 
-I build scalable, high-performance Flutter applications for Android and iOS—  
+I build scalable, high-performance Flutter applications for Android and iOS-  
 from complex product requirements and polished interfaces to production release.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sufiyanrazaq.com-02569B?style=flat-square&logo=googlechrome&logoColor=white)](https://sufiyanrazaq.com)
@@ -20,7 +20,7 @@ from complex product requirements and polished interfaces to production release.
 
 I’m a Senior Flutter Developer with 5+ years of experience building and maintaining production mobile applications.
 
-My work covers the complete development lifecycle—from understanding product requirements and implementing responsive interfaces to API integration, performance optimization, testing, deployment, and long-term maintenance.
+My work covers the complete development lifecycle-from understanding product requirements and implementing responsive interfaces to API integration, performance optimization, testing, deployment, and long-term maintenance.
 
 - Building production applications for Android and iOS
 - Developing scalable, maintainable Flutter codebases
