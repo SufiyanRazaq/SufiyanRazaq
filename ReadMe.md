@@ -1,13 +1,56 @@
-Hi 👋, I'm Sufiyan Razaq<br><br>🚀 Flutter Developer | Freelancer<br>💡 UI/UX Enthusiast | Passionate Problem-Solver<br><br>🔭 Currently working as a Flutter Mobile App Developer, crafting seamless and scalable applications.<br>📱 Specializing in cross-platform app development, delivering high-performance solutions with clean and maintainable code.<br>✨ Enthusiastic about UI/UX design, ensuring intuitive and visually appealing user experiences.<br>💻 Dedicated to writing efficient, scalable, and well-structured code to build innovative applications.<br>🌍 Passionate about exploring new places and embracing new challenges in technology.<br>📫 Let's connect!<br>🔗 Portfolio: http://sufiyanrazaq.com/
+<div align="center">
 
+# Hi, I’m Sufiyan Razaq 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100082414973789) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sufiyan_razaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sufiyan-razaq-17434625a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FlutterDeveloper578) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@sufiyanrazaq.com) 
+### Senior Flutter Developer
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+I build scalable, high-performance Flutter applications for Android and iOS—  
+from complex product requirements and polished interfaces to production release.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sufiyanrazaq.com-02569B?style=flat-square&logo=googlechrome&logoColor=white)](https://sufiyanrazaq.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sufiyan_Razaq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufiyan-razaq-17434625a)
+[![Email](https://img.shields.io/badge/Email-me@sufiyanrazaq.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@sufiyanrazaq.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Flutter_Developer-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@FlutterDeveloper578)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SufiyanRazaq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I’m a Senior Flutter Developer with 5+ years of experience building and maintaining production mobile applications.
+
+My work covers the complete development lifecycle—from understanding product requirements and implementing responsive interfaces to API integration, performance optimization, testing, deployment, and long-term maintenance.
+
+- Building production applications for Android and iOS
+- Developing scalable, maintainable Flutter codebases
+- Translating Figma designs into responsive mobile interfaces
+- Integrating REST APIs, Firebase, Supabase, maps, payments, and notifications
+- Debugging, optimizing, and modernizing existing applications
+- Managing Google Play and App Store releases
+- Collaborating with product, design, backend, and QA teams
+
+---
+
+## Selected Production Work
+
+| Product | Overview | Platforms |
+|:---|:---|:---:|
+| [**KWSC Unified**](https://play.google.com/store/apps/details?id=pk.gov.kwsc.kwsc_digital) | Government public-service application with 80,000+ downloads | Android & iOS |
+| [**Asani Super App**](https://play.google.com/store/apps/details?id=io.asani.asani_app) | Multi-service consumer application with complex production workflows | Android & iOS |
+| [**DFTL Partner**](https://play.google.com/store/apps/details?id=com.dftlpartner) | Partner-facing business application built for production operations | Android & iOS |
+| [**Signal Rift: Cyber Nodes**](https://play.google.com/store/apps/details?id=com.signalrift.game) | Cross-platform mobile game developed with Flutter and Flame | Android & iOS |
+
+Explore more work and case studies at [sufiyanrazaq.com](https://sufiyanrazaq.com).
+
+---
+
+## Core Expertise
+
+```text
+Flutter Development       Production Android & iOS Applications
+Dart                       Responsive and Adaptive Interfaces
+Application Architecture   REST API and Third-Party Integrations
+Firebase                   Performance Optimization and Debugging
+App Store Deployment       Maintenance and Feature Development
+Flutter Flame              CI/CD and Release Workflows
